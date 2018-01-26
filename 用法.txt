@@ -1,0 +1,1 @@
+ overridePendingTransition(R.anim.activity_start_zoom_in, R.anim.activity_start_zoom_out);
